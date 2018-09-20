@@ -1,3 +1,7 @@
 language: java
 jdk:
- - oraclejdk8
+ - oraclejdk8 deploy:
+ provider: heroku
+ api-key: 
+  secure: 880db2bd-7ea8-4843-be15-e606362c22cc
+ app: ci-spring-boot2
