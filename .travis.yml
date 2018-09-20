@@ -5,4 +5,4 @@ deploy:
   provider: heroku
   api_key:
     secure: 880db2bd-7ea8-4843-be15-e606362c22cc
-    app: ci-spring-boot-master2
+    app: ci-spring-boot2
