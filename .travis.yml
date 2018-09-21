@@ -1,9 +1,0 @@
-language: java
-jdk:
- - oraclejdk8 
-deploy:
-  provider: heroku
-  api_key:
-    secure: 880db2bd-7ea8-4843-be15-e606362c22cc
-  app: java-test-example2
-
